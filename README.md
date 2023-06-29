@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! :wave:
 
 ## About Me :grinning:
-Hi there! I'm [Your Name] :smiley:, a passionate developer from [Your City, Country]. I love coding and exploring new technologies.
+Hi there! I'm </Saleh> :smiley:, a passionate developer from Jeddah. I love coding and exploring new technologies.
 
 ## Skills :computer:
 - Programming Languages: JavaScript, Python, Java
@@ -9,21 +9,16 @@ Hi there! I'm [Your Name] :smiley:, a passionate developer from [Your City, Coun
 - Databases: MySQL, MongoDB
 - Version Control: Git
 
-## Projects :rocket:
-- [Project 1](https://github.com/yourusername/project1) :briefcase:: Brief description of the project.
-- [Project 2](https://github.com/yourusername/project2) :briefcase:: Brief description of the project.
-- [Project 3](https://github.com/yourusername/project3) :briefcase:: Brief description of the project.
 
 ## Contact Me :envelope:
-Feel free to reach out to me through email at [your@email.com].
+Feel free to reach out to me through email at [salehghulan@gmail.com].
 
 ## Connect with Me :globe_with_meridians:
-- [LinkedIn](https://www.linkedin.com/in/yourprofile) :briefcase:
-- [Twitter](https://twitter.com/yourusername) :bird:
-- [Website](https://www.yourwebsite.com) :globe_with_meridians:
+- [LinkedIn](https://www.linkedin.com/in/saleh-g-6b730821b/) :briefcase:
+- [Twitter](https://twitter.com/l_saleh_l) :bird:
 
 ## Stats :bar_chart:
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![</Saleh> GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 
 ## Contributions :chart_with_upwards_trend:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername)
+[![Python](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/salehghulamqasim)
