@@ -4,8 +4,8 @@
 Hi there! I'm [</Saleh>] :smiley:, a passionate developer from Jeddah. I love coding and exploring new technologies.
 
 ## Skills :computer:
-- Programming Languages: JavaScript, Python, Java
-- Web Development: HTML, CSS, React, Node.js
+- Programming Languages: Dart, Python, Java, C#,Sql,php
+- Web Development: HTML, CSS, javascript, phpmyadmin
 - Databases: MySQL, MongoDB
 - Version Control: Git
 
@@ -18,7 +18,7 @@ Feel free to reach out to me through email at [salehghulan@gmail.com].
 - [Twitter](https://twitter.com/l_saleh_l) :bird:
 
 ## Stats :bar_chart:
-![</Saleh> GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Saleh GitHub stats](https://github-readme-stats.vercel.app/api?username=salehghulamqasim&show_icons=true&theme=dark)
 
 ## Contributions :chart_with_upwards_trend:
 [![Python](https://github-readme-stats.vercel.app/api/top-langs/?username=salehghulamqasim&layout=compact&theme=dark)](https://github.com/salehghulamqasim)
