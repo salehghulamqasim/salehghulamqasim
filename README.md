@@ -16,8 +16,7 @@ Feel free to reach out to me through email at [salehghulan@gmail.com](mailto:sal
 - [LinkedIn](https://www.linkedin.com/in/saleh-g-6b730821b) 💼
 - [Twitter](https://twitter.com/l_saleh_l) 🐦
 
-📈 Stats 📊
+
 ![Saleh GitHub stats](https://github-readme-stats.vercel.app/api?username=salehghulamqasim&show_icons=true&theme=dark)
 
-📊 Contributions 📈
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salehghulamqasim&layout=compact&theme=dark)](https://github.com/salehghulamqasim)
