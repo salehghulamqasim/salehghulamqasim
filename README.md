@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! :wave:
 
 ## About Me :grinning:
-Hi there! I'm </Saleh> :smiley:, a passionate developer from Jeddah. I love coding and exploring new technologies.
+Hi there! I'm [</Saleh>] :smiley:, a passionate developer from Jeddah. I love coding and exploring new technologies.
 
 ## Skills :computer:
 - Programming Languages: JavaScript, Python, Java
@@ -21,4 +21,4 @@ Feel free to reach out to me through email at [salehghulan@gmail.com].
 ![</Saleh> GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 
 ## Contributions :chart_with_upwards_trend:
-[![Python](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/salehghulamqasim)
+[![Python](https://github-readme-stats.vercel.app/api/top-langs/?username=salehghulamqasim&layout=compact&theme=dark)](https://github.com/salehghulamqasim)
