@@ -13,7 +13,7 @@ Hi there! I'm 😊, a passionate developer from Jeddah. I love coding and explor
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=salehghulamqasim&theme=solarized-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/l_saleh_l)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?l_saleh_l=https://twitter.com/l_saleh_l)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 
 ---
